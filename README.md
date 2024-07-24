@@ -6,7 +6,9 @@
 ## Description
 This is a collection of Klipper macros for loading and unloading filament in a similar style to how a Prusa MK3 handles it. 
 
-These macros were made to work with the Orbiter Filament sensor however it will work a simple filament sensor that is a swtich. It will even without a filament sensor. You just need to call the macros manually. 
+If you've owned a Prusa you know what I mean. 
+
+These macros were made to work with the Orbiter Filament sensor however it will work a filament switch style sensor. It will even without a filament sensor. You just need to call the macros manually. 
 
 
 ## Features
@@ -18,6 +20,7 @@ These macros were made to work with the Orbiter Filament sensor however it will 
 - It's smart, even when you're dumb. Did you forget to load filament when starting a print? It will tell you. 
 
 ## Block Diagram
+
 
 ## Contributing
 Bugs? Issues? Improvements? Open an issue or make a PR. 
