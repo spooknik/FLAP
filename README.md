@@ -1,18 +1,19 @@
 
 # Filament Loading À la Prusa (FLÀP) 
 
-### A set of Klipper macros for filament loading
+### A set of Klipper macros with prompts for filament loading and more
+
 
 ## Description
-This is a collection of Klipper macros for loading and unload filament and handleing filament runout in a similar style to how Prusa MK3 does it. What does this mean?
+This is a collection of Klipper macros for loading and unload filament and handleing filament runouts and color changes in a similar style to Prusa.
 
 - When loading filament you are asked what material it is. The hotend and heatbed (optional) are then heated up to the temp defined for that material.
 - When loading a filament you are asked if the material should be purged more after the intial purge.
 - When unloading a material you are asked what material should be unloaded, if for some reason it is not saved.
 - If the hotend cools down at anytime in load and unload beause of [Idle Timeout](https://www.klipper3d.org/Config_Reference.html#idle_timeout), then it is reheated before moving the extruder.
-- If filament runsout during a printer, the printer is paused and unloads your filament. Then asks you to insert new filament.
+- If filament runs out during a printer, the printer is paused and unloads your filament. Then asks you to insert new filament.
+- Checks if filament is actually present before trying to load
 
-These macros are build around the Orbiter Filament sensor, but can work with any filment runout switch you just need to define the pin. Most setups will not have a button to unload filament like the Orbiter Filament sensor but you can run the macro manually or make a simple button using a spare pin on your MCU.
 
 ## Loading
 
