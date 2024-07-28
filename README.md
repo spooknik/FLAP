@@ -20,7 +20,7 @@ The main features are:
 - If filament runs out during a printer, the printer is paused, parked, waits for you to unload the filament. Then asks you to insert new filament.
 - Checks if filament is actually present before trying to load
 
-A video is worth a 1000 words:
+[A video is worth a 1000 words](https://www.youtube.com/watch?v=ou3CjtsuDTo)
 
 ## Install
 1. Download ´flap_main.cfg´ and ´flap_temp_control.cfg´
