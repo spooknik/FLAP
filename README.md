@@ -3,6 +3,7 @@
 
 ### A set of Klipper macros with prompts for filament loading and more
 
+https://github.com/user-attachments/assets/c1852419-f1c5-4ba8-8720-57148ebd5544
 
 ## Description
 This is a collection of Klipper macros for loading and unload filament and handleing filament runouts and color changes in a similar style to Prusa.
