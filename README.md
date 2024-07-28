@@ -32,17 +32,9 @@ The main features are:
 
 ## Todo
 1. Long term testing
-2. Testing on Klipper Screen (mind is in the mail)
-3. Fixing bugs that will probably appear 🙃
-
-## Loading
-
-## Unloading
-
-## Filament runout / Color Change (M600)
-
-Filament runout is one of the most ciritical and delicate operations for a 3D printer. A lot can go wrong and hours of a print and lots of filament can be trashed if it doesn't go right. With these macros I tried to make the process as bullet proof as possible with lots of checks to make sure everything goes as it should.
-
+2. Testing on Klipper Screen (mine is in the mail)
+3. Optimize macros by using lists 
+4. Fixing bugs that will probably appear 🙃
 
 ## Contributing
 Bugs? Issues? Improvements? Open an issue or make a PR. 
