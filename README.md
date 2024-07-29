@@ -42,8 +42,11 @@ A short demo because [a video is worth a 1000 words](https://www.youtube.com/wat
 ## Todo
 1. Long term testing
 2. Testing on Klipper Screen (mine is in the mail)
-3. Optimize macros by using lists 
 4. Fixing bugs that will probably appear 🙃
+
+## Changelog
+- V1.0 - Intital Release
+- V1.1 - Optimized material load and unload prompt.
 
 ## Contributing
 Bugs? Issues? Improvements? Open an issue or make a PR. 
