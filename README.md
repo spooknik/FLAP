@@ -34,6 +34,8 @@ A short demo because [a video is worth a 1000 words](https://www.youtube.com/wat
 ## Install
 [See the wiki for a step by step guide.](https://github.com/spooknik/FLAP/wiki/Installation)
 
+Also check out [extras](https://github.com/spooknik/FLAP/wiki/Extras)
+
 ## Todo
 1. Long term testing
 2. Testing on Klipper Screen (mine is in the mail)
