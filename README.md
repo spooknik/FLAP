@@ -32,12 +32,7 @@ The main features are:
 A short demo because [a video is worth a 1000 words](https://www.youtube.com/watch?v=ou3CjtsuDTo)
 
 ## Install
-1. Download ´flap_main.cfg´ and ´flap_temp_control.cfg´
-2. Place both files in your Klipper config folder
-3. Open ´flap_main.cfg´ and assign your pins
-4. Have a look at the options in the config and customize to your liking
-5. Open ´flap_temp_control.cfg´ and have a look at the material profiles and see if they are to your liking
-6. Restart and try it out
+[See the wiki for a step by step guide.](https://github.com/spooknik/FLAP/wiki/Installation)
 
 ## Todo
 1. Long term testing
