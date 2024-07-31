@@ -40,10 +40,18 @@ Also check out [extras](https://github.com/spooknik/FLAP/wiki/Extras)
 1. Long term testing
 2. Testing on Klipper Screen (mine is in the mail)
 4. Fixing bugs that will probably appear 🙃
+5. Color Change (M600) - testing
+6. Resume Prompt after runout / colorchange
+7. Auto-resume (maybe)
+8. Persistent storage of loaded material
+9. Continuous beep alert during runout / color change
+10. (Optional) Home Z and Z lift options for loading
+11. Better "Is the filament loaded correctly?" function
 
 ## Changelog
 - V1.0 - Intital Release
 - V1.1 - Optimized material load and unload prompt.
+- V1.2 - Added cooldown after loading function. Optimized prompt text and layouts.
 
 ## Contributing
 Bugs? Issues? Improvements? Open an issue or make a PR. 
