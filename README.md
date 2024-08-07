@@ -28,6 +28,10 @@ The main features are:
 - Optional Beep (M300) command can be played at stages of load and unload
 - Temperture Checks and temperature recovery if [idle timeout](https://www.klipper3d.org/Config_Reference.html?h=idle#idle_timeout) is reached.
 - Filament Checks during loading to make sure there is acutally filament loaded
+- Auto Resume after runout
+- Persistence storage of material temps; material is remembered even after reboot
+- "Retry" feature during filament loading, which unloads the filament if something is wrong
+- Works 100% with Klipperscreen
 
 A short demo because [a video is worth a 1000 words](https://www.youtube.com/watch?v=ou3CjtsuDTo)
 
