@@ -37,8 +37,6 @@ The main features are:
 - Customizable purge length, purge speed, unload distance, park postion, park lift and park retraction
 - Works 100% with Klipperscreen
 
-A short demo because [a video is worth a 1000 words](https://www.youtube.com/watch?v=ou3CjtsuDTo)
-
 ## Install
 [See the wiki for a step by step guide.](https://github.com/spooknik/FLAP/wiki/Installation)
 
